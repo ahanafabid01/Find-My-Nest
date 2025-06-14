@@ -1,4 +1,11 @@
-# 🏠 FindMyNest - Simplifying Student Housing in Bangladesh
+<p align="center">
+  <img src="logo.png" alt="FindMyNest Logo" width="200"/>
+</p>
+
+<h1 align="center">FindMyNest</h1>
+<h3 align="center"><em>~Simplifying Student Housing in Bangladesh~</em></h3>
+
+---
 
 ## 📘 Overview
 
